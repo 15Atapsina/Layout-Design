@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+	<head>
+		<title>দৈনিক ইত্তেফাক</title>
+		<meta charset="utf-8"/>
+		<link rel="icon" type="image/x-icon" href="img/7.png"/>
+	</head>
+	<body>
+		<table border="1" cellspacing="0" align="center">
+			<tr>
+				<td align="center"><img src="img/l.png" alt="logo"/></td>
+				<td><img src="img/images.jpg" alt="banner img" width="100%" height="100%"/></td>
+				<td><img src="img/10.png" alt="search img"/></td>
+			</tr>
+			<tr>
+				<td colspan="3">
+					<table cellspacing="0" width="100%" cellpadding="10px">
+						<tr align="center">
+							<td width="10%">
+								<a href="#">সর্বশেষ</a>
+							</td>
+							<td width="10%">
+								<a href="#">বিশেষ সংবাদ</a>
+							</td>
+							<td width="10%">
+								<a href="#">জাতীয়</a>
+							</td>
+							<td width="10%">
+								<a href="#">সারাদেশ</a>
+							</td>
+							<td width="10%">
+								<a href="#">রাজনীতি</a>
+							</td>
+							<td width="10%">
+								<a href="#">বিশ্ব সংবাদ</a>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td><img src="img/12.png" alt="img"/></td>
+				<td valign="top">ভারী বৃষ্টিপাত না হওয়ায় মেহেরপুরের খালবিল ও পুকুরগুলো এখন পানিশূন্য। ভৈরব, সরস্বতী, কাজলাসহ বিভিন্ন খালবিলগুলোতে পানি থাকলেও পাট জাগ দেওয়া নিয়ে সেখানে সরকারি নিষেধাজ্ঞা রয়েছে। তাই চাষিরা উপায়ন্ত না পেয়ে কৃত্রিম উপায়ে পাট জাগ দিচ্ছেন। পাটের জমিতেই আঁটি বেঁধে তার ওপর মাটি রেখে পানি দিয়ে পাট জাগ দিচ্ছেন তারা।মেহেরপুর জেলা কৃষি বিভাগের তথ্যমতে, জেলায় এ বছর প্রায় ২০ হাজার হেক্টর জমিতে পাট চাষ হয়েছে। মুজিবনগর উপজেলার বল্লভপুর গ্রামের কৃষক ওয়াসিম শেখ বলেন, দেড় বিঘা জমিতে পাট চাষ করেছি। জমির পাশে সরকারি খাল থাকা সত্ত্বেও প্রশাসনের নিষেধাজ্ঞা থাকায় সেখানে পাট জাগ দিতে পারিনি। তাই, পাট কেটে গাড়িতে করে বয়ে নিয়ে পাশের গ্রাম নাজিরাকোনাতে চাষের জমি গর্ত করে সেখানে জাগ দিতে হয়েছে।</td>
+				<td align="center"><img src="img/1.png" alt="img"/></td>
+			</tr>
+			<tr>
+				<td colspan="3" height="200px"><img src="img/5.jpg"/></td>
+			</tr>
+			<tr>
+				<td colspan="3" height="50px" align="center"><img src="img/2.png" alt="img"/></td>
+			</tr>
+		</table>
+	</body>
+</html>
